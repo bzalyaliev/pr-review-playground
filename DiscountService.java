@@ -1,7 +1,6 @@
 public class DiscountService {
 
     public int discount(int amount) {
-        System.out.println("Calculating discount");
         return amount / 10;
     }
 
